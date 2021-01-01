@@ -4,7 +4,10 @@ public class Test {
     int i;
 
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("asd");
+    }
+
+    public void test() {
         System.out.println();
     }
 }
